@@ -3,18 +3,18 @@ title: "Book2Skill: converti libri tecnici in skill per AI"
 source: https://www.instagram.com/reel/DYpJWNhATua/?igsh=NnVhY3kybm1xN2pz
 source_type: instagram
 date: 2026-05-23
-hermes_id: a556746b-0bbd-4eb6-9f81-a4e55f20731c
+hermes_id: 897b4593-bed3-412f-947f-ca7cf6cb2872
 tags:
   - Intelligenza Artificiale
-  - Produttività
-  - Strumenti AI
-  - Gestione Documenti
-  - Claude Skills
+  - Skill AI
+  - Gestione della conoscenza
+  - Strumenti open source
+  - Prompt Engineering
 ---
 
 ## Riassunto
 
-Un utente ha sviluppato uno strumento open source chiamato Book2Skill che permette di convertire interi libri tecnici in skill utilizzabili nei modelli di AI come Claude. Lo strumento risolve il problema dell'eccessivo consumo di token derivante dal caricamento diretto di documenti voluminosi, elaborando il testo pagina per pagina e capitolo per capitolo. Il processo genera automaticamente file strutturati come chitchat.md, patterns.md e glossary.md, insieme a riassunti per ogni capitolo. La skill funziona come una guida intelligente che indica al modello come esplorare il documento, permettendo di approfondire i dettagli solo quando necessario. L'autore evidenzia il potenziale enorme di questo approccio applicato a settori come la finanza, la medicina e gli investimenti, riportando risultati positivi nei propri test.
+Un utente ha sviluppato uno strumento open source chiamato Book2Skill che converte libri tecnici di centinaia di pagine in skill utilizzabili nei modelli AI. Lo strumento risolve il problema del consumo eccessivo di token analizzando il documento in modo intelligente, creando riassunti pagina per pagina e capitolo per capitolo. Genera automaticamente file strutturati come chitchat.md, patterns.md e glossary.md, organizzando la conoscenza in modo esplorabile e gerarchico. La skill risultante funge da guida contestuale che spiega al modello cosa contiene il documento, come navigarlo e come approfondire i dettagli. L'autore sottolinea il potenziale enorme di questa tecnica applicata a domini come finanza e medicina, e dichiara di stare già testando lo strumento con risultati positivi.
 
 ## Contenuto
 
