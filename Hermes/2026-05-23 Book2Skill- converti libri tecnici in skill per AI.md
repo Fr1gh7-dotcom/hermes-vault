@@ -3,18 +3,18 @@ title: "Book2Skill: converti libri tecnici in skill per AI"
 source: https://www.instagram.com/reel/DYpJWNhATua/?igsh=NnVhY3kybm1xN2pz
 source_type: instagram
 date: 2026-05-23
-hermes_id: 897b4593-bed3-412f-947f-ca7cf6cb2872
+hermes_id: e0bfb51e-5b2d-488f-a99c-16f5742da98a
 tags:
   - Intelligenza Artificiale
   - Skill AI
+  - Produttività
+  - Strumenti AI
   - Gestione della conoscenza
-  - Strumenti open source
-  - Prompt Engineering
 ---
 
 ## Riassunto
 
-Un utente ha sviluppato uno strumento open source chiamato Book2Skill che converte libri tecnici di centinaia di pagine in skill utilizzabili nei modelli AI. Lo strumento risolve il problema del consumo eccessivo di token analizzando il documento in modo intelligente, creando riassunti pagina per pagina e capitolo per capitolo. Genera automaticamente file strutturati come chitchat.md, patterns.md e glossary.md, organizzando la conoscenza in modo esplorabile e gerarchico. La skill risultante funge da guida contestuale che spiega al modello cosa contiene il documento, come navigarlo e come approfondire i dettagli. L'autore sottolinea il potenziale enorme di questa tecnica applicata a domini come finanza e medicina, e dichiara di stare già testando lo strumento con risultati positivi.
+Un utente ha creato uno strumento open source chiamato Book2Skill che converte interi libri tecnici, anche di 400 pagine, in skill utilizzabili con modelli AI come Claude. Lo strumento elabora il documento in modo intelligente, creando riassunti pagina per pagina e capitolo per capitolo, evitando il consumo eccessivo di token che si avrebbe caricando l'intero libro. Genera automaticamente file strutturati come chitchat.md, patterns.md e glossary.md, insieme a riassunti per capitolo organizzati in cartelle. La skill funge da guida intelligente che spiega al modello cos'è il documento, cosa contiene e come esplorarlo, permettendo di approfondire progressivamente dal riassunto fino alla pagina originale. L'autore del video evidenzia il grande potenziale applicativo, ad esempio creando skill specializzate da libri di finanza, medicina o investimenti.
 
 ## Contenuto
 
