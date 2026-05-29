@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "efb4d24fed4cc8c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2db91b6d0e8ce49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7408f2c68626d926",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          },
+          {
+            "id": "f32bb9fc6f999a2b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f503a306cc1282a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7117feaec26e4c2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9cb664967ebfb5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "2a2e967fde8cb95b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "09fc26c488f1b04c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c963eab13fe8af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec9ccfb353e5557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f923a178945a5fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "306c7342d750fc3c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Benvenuto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Benvenuto"
+            }
+          },
+          {
+            "id": "9dd5d8f760198dbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "1e4e4e51679107db",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Tutte le proprietà"
+            }
+          },
+          {
+            "id": "deec93574462d599",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Benvenuto.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Benvenuto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false
+    }
+  },
+  "active": "a9cb664967ebfb5f",
+  "lastOpenFiles": [
+    "Hermes/ZOROASTER_OVERVIEW.md",
+    "Hermes/tesi.pdf",
+    "Hermes/struttura_progetto.md",
+    "Hermes/Programmi -Skill AI.docx",
+    "Hermes/Monitor_Offerte_Specifica_Progetto.md",
+    "Hermes/Lazari_Alberto_tesi.pdf",
+    "Hermes/AGENTIC_OS_PRD.md",
+    "Hermes/2026-05-23 Book2Skill- converti libri tecnici in skill per AI.md",
+    "Hermes/2026-05-22 Teoria del complotto antisemita- ebrei e controllo mondiale.md",
+    "Hermes/2026-05-22 Graphify- Knowledge Base a Grafo per Documenti con AI.md",
+    "Hermes/2026-05-22 Graphify- Knowledge Base a Grafo per Documenti AI.md",
+    "Hermes/2026-05-22 Ermete Trismegisto- simbolismo e filosofia ermetica.md",
+    "Hermes/2026-05-22 Ermete Trismegisto e la filosofia ermetica della polarità.md",
+    "Hermes/2026-05-20 I Exposed the Most Corrupt Churches in America....md",
+    "Hermes/2026-05-20 Agent Harness- cos'è e come usarla correttamente.md",
+    "Hermes/2026-05-19 Progettazione e implementazione del backend di un'applicazione di prospecting.md",
+    "Hermes/2026-05-19 Analisi, progettazione e sviluppo del backend di un'applicazione web per la gestione di eventi.md",
+    "Hermes/2026-05-18 Pencil – Design su canvas. Arriva in codice..md",
+    "Hermes/2026-05-18 Pencil – Design on canvas. Land in code..md",
+    "Hermes/2026-05-18 Le Piramidi di Zone sul Lago d'Iseo.md",
+    "Hermes/2026-05-15 Superclan- Chi comanda l'economia mondiale-.md",
+    "Hermes/2026-05-15 Company Profile PHTRE S.R.L. – Gestione Ambientale e Smaltimento Rifiuti Industriali.md",
+    "Hermes/2026-05-14 Rapporto di Prova N. 20240076 - Analisi Rifiuto Liquido CER 120109- (Emulsione Oleosa) - CONSULAB S..md",
+    "Hermes/2026-05-14 Linee Guida Tecniche per l'Estrazione e Validazione dei Dati Analitici nel Settore Rifiuti.md",
+    "Hermes/2026-05-14 INNESTO AI-Powered Systems per le PMI Italiane — Business Plan Strategico 2026.md",
+    "Hermes/2026-05-14 Considera l'aragosta e altri saggi.md",
+    "Hermes",
+    "Senza nome",
+    "ZOROASTER_OVERVIEW.md",
+    "tesi.pdf",
+    "struttura_progetto.md",
+    "Monitor_Offerte_Specifica_Progetto.md",
+    "Lazari_Alberto_tesi.pdf",
+    "Senza nome.base",
+    "Senza nome.canvas"
+  ]
+}
