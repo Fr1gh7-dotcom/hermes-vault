@@ -3,18 +3,18 @@ title: "Agent Harness: cos'è e come ancorare un LLM alla realtà"
 source: https://www.instagram.com/reel/DYe2KwvNPhM/?igsh=MWFuaWpydTR4djdkNw==
 source_type: instagram
 date: 2026-06-16
-hermes_id: 63a8e68e-82f4-4a6f-bd0a-8b2b3f4d03e1
+hermes_id: dba6a4fe-f20d-4812-81da-a40585c2d459
 tags:
   - agenti AI
   - LLM
-  - harness
-  - architettura AI
-  - sviluppo agenti
+  - architettura agenti
+  - prompt engineering
+  - sviluppo AI
 ---
 
 ## Riassunto
 
-L'harness per agenti AI è un sistema che ancora l'LLM alla realtà, composto da elementi come il registro dei tool, la gestione del contesto, le guardrails e l'agentic loop. Si distingue dalla Eval Harness e deve essere progettata in base al modello usato: un modello grande con harness troppo restrittiva performa male, mentre un modello piccolo con l'harness giusta può eccellere. L'harness non è permanente: quando il modello acquisisce nuove capacità native, le parti corrispondenti dell'harness vanno rimosse. Un errore comune tra i principianti è fare il lavoro al posto dell'LLM invece di dargli gli strumenti per farlo autonomamente. È fondamentale separare ciò che deve essere codice stabile da ciò che richiede la creatività del modello.
+L'harness è un componente fondamentale nella creazione di agenti AI che serve ad ancorare il modello linguistico alla realtà, proprio come un'imbraccatura lega un alpinista alla montagna. Si compone di diversi elementi: registro dei tool, scelta del modello, gestione del contesto, guardrails e agentic loop. Un aspetto cruciale è che l'harness non è permanente: dipende fortemente dal modello utilizzato e va adattata o rimossa quando il modello evolve e acquisisce nuove capacità native. Un errore comune tra i principianti è sostituire le capacità dell'LLM con codice rigido, invece di lasciare che sia il modello stesso a decidere come gestire determinate situazioni. La regola chiave è saper distinguere quando usare codice tradizionale (per stabilità) e quando affidarsi all'LLM (per creatività e flessibilità).
 
 ## Contenuto
 
