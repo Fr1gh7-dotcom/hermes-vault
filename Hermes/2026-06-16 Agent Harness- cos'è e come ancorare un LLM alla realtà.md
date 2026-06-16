@@ -3,18 +3,18 @@ title: "Agent Harness: cos'è e come ancorare un LLM alla realtà"
 source: https://www.instagram.com/reel/DYe2KwvNPhM/?igsh=MWFuaWpydTR4djdkNw==
 source_type: instagram
 date: 2026-06-16
-hermes_id: dba6a4fe-f20d-4812-81da-a40585c2d459
+hermes_id: 3b69616c-2dc7-4258-89e8-f5ca7666d615
 tags:
   - agenti AI
   - LLM
-  - architettura agenti
-  - prompt engineering
-  - sviluppo AI
+  - harness
+  - sviluppo agenti
+  - architettura AI
 ---
 
 ## Riassunto
 
-L'harness è un componente fondamentale nella creazione di agenti AI che serve ad ancorare il modello linguistico alla realtà, proprio come un'imbraccatura lega un alpinista alla montagna. Si compone di diversi elementi: registro dei tool, scelta del modello, gestione del contesto, guardrails e agentic loop. Un aspetto cruciale è che l'harness non è permanente: dipende fortemente dal modello utilizzato e va adattata o rimossa quando il modello evolve e acquisisce nuove capacità native. Un errore comune tra i principianti è sostituire le capacità dell'LLM con codice rigido, invece di lasciare che sia il modello stesso a decidere come gestire determinate situazioni. La regola chiave è saper distinguere quando usare codice tradizionale (per stabilità) e quando affidarsi all'LLM (per creatività e flessibilità).
+L'harness è una struttura che serve ad ancorare un LLM alla realtà, suddivisa in Eval Harness e Agent Harness. È composta da elementi chiave come il registro dei tool, la scelta del modello, la gestione del contesto, le guardrails e l'agentic loop. È importante non confondere l'harness con l'agentic loop: possono esistere loop annidati con fasi di verifica esterne all'harness. L'harness non è permanente: dipende dal modello usato e va rimossa o adattata quando il modello evolve e supporta nativamente certe funzionalità. Un errore comune è sostituire la logica dell'LLM con codice rigido: bisogna distinguere quando serve stabilità (codice) e quando serve creatività (LLM). La scelta giusta dell'harness può far performare ottimamente anche modelli piccoli, mentre un'harness troppo restrittiva penalizza modelli grandi.
 
 ## Contenuto
 
