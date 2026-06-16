@@ -3,18 +3,18 @@ title: "Agent Harness: cos'è e come ancorare un LLM alla realtà"
 source: https://www.instagram.com/reel/DYe2KwvNPhM/?igsh=MWFuaWpydTR4djdkNw==
 source_type: instagram
 date: 2026-06-16
-hermes_id: 3b69616c-2dc7-4258-89e8-f5ca7666d615
+hermes_id: 4f923e1a-7974-43a6-a0e4-c6f5c5eefc7e
 tags:
   - agenti AI
   - LLM
   - harness
-  - sviluppo agenti
-  - architettura AI
+  - agentic loop
+  - sviluppo AI
 ---
 
 ## Riassunto
 
-L'harness è una struttura che serve ad ancorare un LLM alla realtà, suddivisa in Eval Harness e Agent Harness. È composta da elementi chiave come il registro dei tool, la scelta del modello, la gestione del contesto, le guardrails e l'agentic loop. È importante non confondere l'harness con l'agentic loop: possono esistere loop annidati con fasi di verifica esterne all'harness. L'harness non è permanente: dipende dal modello usato e va rimossa o adattata quando il modello evolve e supporta nativamente certe funzionalità. Un errore comune è sostituire la logica dell'LLM con codice rigido: bisogna distinguere quando serve stabilità (codice) e quando serve creatività (LLM). La scelta giusta dell'harness può far performare ottimamente anche modelli piccoli, mentre un'harness troppo restrittiva penalizza modelli grandi.
+L'harness è una struttura che serve ad ancorare un agente LLM alla realtà, suddivisa in Eval Harness e Agent Harness. È composta da elementi chiave come il registro dei tool, la scelta del modello, la gestione del contesto, le guardrails e l'agentic loop. L'harness non è permanente: va adattata o rimossa quando il modello evolve e supporta nativamente determinate funzionalità, come l'elaborazione audio. La dimensione del modello influenza direttamente l'harness da scegliere: un modello grande con harness troppo restrittiva performa male, mentre uno piccolo con l'harness giusta può eccellere. Un errore comune per i principianti è delegare al codice ciò che dovrebbe fare l'LLM, confondendo la stabilità del codice con la creatività del modello. È fondamentale separare responsabilità del codice da quelle dell'LLM, lasciando all'agente la flessibilità decisionale quando appropriato.
 
 ## Contenuto
 
