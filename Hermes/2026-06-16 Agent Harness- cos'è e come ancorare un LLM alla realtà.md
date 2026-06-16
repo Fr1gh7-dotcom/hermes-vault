@@ -3,18 +3,18 @@ title: "Agent Harness: cos'è e come ancorare un LLM alla realtà"
 source: https://www.instagram.com/reel/DYe2KwvNPhM/?igsh=MWFuaWpydTR4djdkNw==
 source_type: instagram
 date: 2026-06-16
-hermes_id: 4f923e1a-7974-43a6-a0e4-c6f5c5eefc7e
+hermes_id: 97aca29a-da5b-484f-85da-6eb7db020c03
 tags:
   - agenti AI
   - LLM
   - harness
   - agentic loop
-  - sviluppo AI
+  - prompt engineering
 ---
 
 ## Riassunto
 
-L'harness è una struttura che serve ad ancorare un agente LLM alla realtà, suddivisa in Eval Harness e Agent Harness. È composta da elementi chiave come il registro dei tool, la scelta del modello, la gestione del contesto, le guardrails e l'agentic loop. L'harness non è permanente: va adattata o rimossa quando il modello evolve e supporta nativamente determinate funzionalità, come l'elaborazione audio. La dimensione del modello influenza direttamente l'harness da scegliere: un modello grande con harness troppo restrittiva performa male, mentre uno piccolo con l'harness giusta può eccellere. Un errore comune per i principianti è delegare al codice ciò che dovrebbe fare l'LLM, confondendo la stabilità del codice con la creatività del modello. È fondamentale separare responsabilità del codice da quelle dell'LLM, lasciando all'agente la flessibilità decisionale quando appropriato.
+L'harness per agenti AI è una struttura che serve ad ancorare il modello LLM alla realtà, composta da elementi come il registro dei tool, la scelta del modello, la gestione del contesto, le guardrails e l'agentic loop. Si distingue dalla Eval Harness ed è fondamentale per dare una direzione all'agente, non solo in ambiti di coding ma anche per task come il fact-checking. L'harness non è permanente: va adattata o rimossa al crescere delle capacità native del modello, ad esempio quando un modello inizia a supportare direttamente l'audio. Un modello molto grande con un harness troppo restrittiva performa male, mentre un modello piccolo con l'harness giusta può dare ottimi risultati. Un errore comune per i principianti è fare il lavoro al posto dell'LLM invece di dargli gli strumenti per farlo autonomamente. È essenziale distinguere cosa deve fare il codice e cosa deve fare l'LLM, bilanciando stabilità e creatività in base al contesto.
 
 ## Contenuto
 
