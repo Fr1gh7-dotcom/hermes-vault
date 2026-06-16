@@ -3,18 +3,18 @@ title: "Simulatore di particelle 3D gratuito per progetti creativi"
 source: https://www.instagram.com/reel/DYhFXyQtiGe/?igsh=ZDN4cTZ2Nm94NGoz
 source_type: instagram
 date: 2026-06-16
-hermes_id: be3d3e9a-78f1-418e-bcab-991275060604
+hermes_id: f976dfa8-4a91-4325-a488-aad7fd223923
 tags:
   - particelle 3D
   - tool gratuito
   - animazioni
-  - motion graphics
-  - risorse creative
+  - design creativo
+  - software
 ---
 
 ## Riassunto
 
-Un utente segnala l'esistenza di un simulatore di particelle 3D completamente gratuito. Lo strumento permette di creare o personalizzare elementi particellari e di esportarli nei formati preferiti. Le animazioni generate possono essere importate direttamente nei propri progetti creativi. Lo strumento è descritto come straordinario e fuori dal comune. L'autore invita a commentare con la parola 'particella' per ricevere il link diretto allo strumento.
+Viene presentato un simulatore di particelle 3D completamente gratuito, definito un tool 'da pazzi furiosi'. Lo strumento permette di utilizzare elementi predefiniti o crearne di personalizzati. Le particelle create possono essere esportate nel formato preferito e importate direttamente nei propri progetti. È ideale per chi vuole aggiungere animazioni particellari a progetti creativi. Per ottenere il link al tool, basta commentare 'particella' sotto il post.
 
 ## Contenuto
 
