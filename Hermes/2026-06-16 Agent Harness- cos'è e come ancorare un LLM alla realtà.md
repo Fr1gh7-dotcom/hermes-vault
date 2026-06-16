@@ -3,18 +3,18 @@ title: "Agent Harness: cos'è e come ancorare un LLM alla realtà"
 source: https://www.instagram.com/reel/DYe2KwvNPhM/?igsh=MWFuaWpydTR4djdkNw==
 source_type: instagram
 date: 2026-06-16
-hermes_id: 97aca29a-da5b-484f-85da-6eb7db020c03
+hermes_id: 6fc4c504-0149-4434-b359-38e716b4fd1c
 tags:
-  - agenti AI
+  - AI Agent
   - LLM
-  - harness
-  - agentic loop
-  - prompt engineering
+  - Harness
+  - Prompt Engineering
+  - Sviluppo AI
 ---
 
 ## Riassunto
 
-L'harness per agenti AI è una struttura che serve ad ancorare il modello LLM alla realtà, composta da elementi come il registro dei tool, la scelta del modello, la gestione del contesto, le guardrails e l'agentic loop. Si distingue dalla Eval Harness ed è fondamentale per dare una direzione all'agente, non solo in ambiti di coding ma anche per task come il fact-checking. L'harness non è permanente: va adattata o rimossa al crescere delle capacità native del modello, ad esempio quando un modello inizia a supportare direttamente l'audio. Un modello molto grande con un harness troppo restrittiva performa male, mentre un modello piccolo con l'harness giusta può dare ottimi risultati. Un errore comune per i principianti è fare il lavoro al posto dell'LLM invece di dargli gli strumenti per farlo autonomamente. È essenziale distinguere cosa deve fare il codice e cosa deve fare l'LLM, bilanciando stabilità e creatività in base al contesto.
+L'harness è un sistema che serve ad ancorare un LLM alla realtà, analogamente a un'imbraccatura alpinistica che lega l'uomo alla montagna. Si compone di elementi come il registro dei tool, la scelta del modello, la gestione del contesto, le guardrails e l'agentic loop, tutti orientati a dare una direzione precisa all'agente. L'harness non è permanente: va adattata o rimossa quando il modello evolve, ad esempio quando supporta nativamente input audio prima gestiti con conversione testuale. La scelta dell'harness dipende fortemente dal modello: una troppo restrittiva penalizza i modelli grandi, mentre una adatta può far performare bene anche modelli piccoli. Un errore comune tra i principianti è fare il lavoro al posto dell'LLM anziché dargli gli strumenti per farlo autonomamente. È fondamentale separare ciò che deve essere codice deterministico da ciò che può essere lasciato alla creatività e al ragionamento del modello.
 
 ## Contenuto
 
